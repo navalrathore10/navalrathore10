@@ -18,6 +18,5 @@ Hey there 👋,<br>I'm a Curious Front-End Developer who loves bringing digital 
 ![](https://github-contributor-stats.vercel.app/api?username=navalrathore10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=navalrathore10&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=navalrathore10&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
